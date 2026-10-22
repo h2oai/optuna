@@ -1,0 +1,5 @@
+# Build configuration for the DAI dependency build workflow, validated before
+# anything is built.
+schema: 1
+python: "3.11"
+arches: [noarch]
